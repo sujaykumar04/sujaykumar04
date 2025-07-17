@@ -13,7 +13,7 @@ Hello, Techies!  Welcome to my official GitHub profile repo – a dynamic showca
 - 🌱 I’m currently diving deep into **Java Backend Development**  
 - 🚀 Working on a **Google Meet + Classroom hybrid system**  
 - 👨‍💻 All my projects are available at: [github.com/sujaykumar04](https://github.com/sujaykumar04)  
-- 📫 Reach me: **sujay.backend.dev@gmail.com**  
+- 📫 Reach me: **sujikumar3000@gmail.com**  
 - ⚡ Fun fact: I’m obsessed with **clean code and system design!**
 
 ---
